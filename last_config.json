@@ -1,0 +1,7 @@
+{
+  "language": "bash",
+  "lhost": "0.0.0.0",
+  "lport": "4444",
+  "obfuscation": "2",
+  "stealth": true
+}
