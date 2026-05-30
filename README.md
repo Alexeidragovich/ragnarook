@@ -1,4 +1,4 @@
-MultiShell
+Ragnarook 
 
 A lightweight and powerful reverse shell payload generator with built-in listener and exploit mode. Designed for penetration testers and red teamers who need stealthy, customizable payloads in multiple languages.
 
@@ -108,4 +108,4 @@ multi-shell-gen/
 
 *Credits*
 
-Crafted with  by Ahmed Altayeb # ragnarook
+Crafted with  by Ahmed Altayeb(Alexei Dragovich) # ragnarook
